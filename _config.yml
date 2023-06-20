@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: 眰恦
-language: zh-cn
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://99shopla.github.io
+url: https://www.99shopla.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
