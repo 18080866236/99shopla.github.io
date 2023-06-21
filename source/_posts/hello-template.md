@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: hello,word
 ---
 
 # H1
