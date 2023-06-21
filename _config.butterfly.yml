@@ -7,7 +7,7 @@ nav:
   display_title: true # 是否显示网站标题，填写 true 或者 false
   fixed: false # 是否固定状态栏，填写 true 或者 false
 
-# Menu 目录
+# Menu 菜单栏目录
 menu:
    首页: / || fas fa-home
    时间轴: /archives/ || fas fa-archive
@@ -45,7 +45,7 @@ favicon: /img/favicon.png
 # Avatar (头像)
 avatar:
   img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  effect: true #头像会一直转圈
 
 # Disable all banner image 禁用所有横幅图像
 disable_top_img: false
@@ -79,9 +79,9 @@ category_per_img:
 
 cover:
   # display the cover or not (是否显示文章封面)
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: true #主页是否显示文章封面图
+  aside_enable: true #侧边栏是否显示文章封面图
+  archives_enable: true #归档页面是否显示文章封面图
   # the position of cover in home page (封面显示的位置)
   # left/right/both
   position: both
@@ -100,7 +100,7 @@ error_404:
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
-post_meta:
+post_meta: # 页面META显示
   page: # Home Page Home Page
     date_type: created # created or updated or both 主页文章日期是创建日或者更新日或都显示
     date_format: date # date/relative 显示日期还是相对日期
@@ -207,9 +207,9 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2020
-  custom_text:
-  copyright: true # Copyright of theme and framework 主题和框架的版权
+    since: 2010
+  custom_text: # 页脚自定义文本
+  copyright: false # Copyright of theme and framework 主题和框架的版权
 
 # aside (侧边栏)
 # --------------------------------------
@@ -353,9 +353,9 @@ katex:
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系统
 # --------------------------------------
 
-# Algolia search
+# Algolia search搜索框
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
 
@@ -381,7 +381,7 @@ docsearch:
 # Share System (分享)
 # --------------------------------------
 
-# AddThis
+# AddThis分享功能
 # https://www.addthis.com/
 addThis:
   enable: false
@@ -399,7 +399,7 @@ addtoany:
   enable: false
   item: facebook,twitter,wechat,sina_weibo,facebook_messenger,email,copy_link
 
-# Comments System
+# Comments System评论系统
 # --------------------------------------
 
 comments:
@@ -517,7 +517,7 @@ artalk:
 # Chat Services 聊天服务
 # --------------------------------------
 
-# Chat Button [recommend] 聊天按钮[推荐]
+# Chat Button [recommend] 在线聊天按钮[推荐]
 # It will create a button in the bottom right corner of website, and hide the origin button
 chat_btn: false
 
@@ -555,14 +555,14 @@ messenger:
   pageID:
   lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
 
-# Analysis 分析
+# Analysis 分析系统
 # --------------------------------------
 
 # Baidu Analytics 百度分析
 # https://tongji.baidu.com/web/welcome/login
 baidu_analytics:
 
-# Google Analytics
+# Google Analytics 谷歌分析
 # https://analytics.google.com/analytics/web/
 google_analytics:
 
@@ -603,7 +603,7 @@ site_verification:
 # Beautify/Effect (美化/效果)
 # --------------------------------------
 
-# Theme color for customize
+# Theme color for customize自定义主题色
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 # theme_color:
@@ -720,10 +720,10 @@ display_mode: light
 
 # Beautify (美化页面显示)
 beautify:
-  enable: false
-  field: post # site/post
-  title-prefix-icon: # '\f0c1'
-  title-prefix-icon-color: # '#F47466'
+  enable: true
+  field: site # site/post
+  title-prefix-icon: '\f0c1'
+  title-prefix-icon-color: '#F47466'
 
 # 全局字体设置
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -746,30 +746,30 @@ hr_icon:
   icon-top:
 
 # the subtitle on homepage (主页副标题)
-# 主頁subtitle
+# 主页subtitle
 subtitle:
   enable: false
   # Typewriter Effect (打字效果)
   effect: true
-  startDelay: 300 # 开始打字前的时间（以毫秒为单位）
-  typeSpeed: 150 # 以毫秒为单位的输入速度
-  backSpeed: 50 # 后退速度（毫秒）
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 150 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
   # loop (循环打字)
   loop: true
-  # source 调用第三方服務
+  # source 调用第三方服务
   # source: false 关闭调用
-  # source: 1  调用一言網的一句話（简体） https://hitokoto.cn/
-  # source: 2  调用一句網（简体） http://yijuzhan.com/
-  # source: 3  调用今日詩詞（简体） https://www.jinrishici.com/
-  # subtitle 會先显示 source , 再显示 sub 的內容
+  # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
+  # source: 2  调用一句网（简体） http://yijuzhan.com/
+  # source: 3  调用今日诗词（简体） https://www.jinrishici.com/
+  # subtitle 会先显示 source , 再显示 sub 的内容
   source: false
-  # 如果关闭打字效果，subtitle 只會显示 sub 的第一行文字
+  # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
-    - 今日事&#44;今日畢
+    - 今日事&#44;今日毕
     - Never put off till tomorrow what you can do today
 
 
-# Loading Animation (加载动画)
+# Loading Animation (页面加载动画preloader)
 preloader:
   enable: false
   # source
@@ -782,7 +782,7 @@ preloader:
 # wordcount (字数统计)
 # see https://butterfly.js.org/posts/ceeb73f/#字数统计
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -808,7 +808,7 @@ abcjs:
   enable: false
   per_page: true
 
-# mermaid
+# mermaid流程图
 # see https://github.com/mermaid-js/mermaid
 mermaid:
   enable: false
@@ -853,14 +853,14 @@ aplayerInject:
 # position 弹窗位置
 # 可选 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: false
+  enable: true
   position: bottom-left
-  bg_light: '#49b1f5' # The background color of Toast Notification in light mode
-  bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
+  bg_light: '#49b1f5' # light mode时弹窗背景
+  bg_dark: '#2d3035' # dark mode时弹窗背景
 
 # https://instant.page/
 # prefetch (预加载)
-instantpage: false
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之间添加空格)
