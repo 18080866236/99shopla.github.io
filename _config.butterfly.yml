@@ -264,17 +264,17 @@ aside:
     sort_order: # 除非您知道它是如何工作的，否则不要修改设置
 
 # busuanzi count for PV / UV in site
-# 訪問人數
+# 访问人数
 busuanzi:
   site_uv: true
   site_pv: true
   page_pv: true
 
-# Time difference between publish date and now (網頁運行時間)
+# Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: trun
+  publish_date: 2010/06/17 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -357,7 +357,7 @@ algolia_search:
   hits:
     per_page: 6
 
-# 本地搜索 需要安装npm install hexo-generator-search
+# 本地搜索(需要安装插件npm install hexo-generator-search)
 local_search:
   enable: true
   # 页面加载时预加载搜索数据。
@@ -952,7 +952,7 @@ sitemap:
   categories: true
   option:
 
-  option:
+  
     # main_css:
     # main:
     # utils:
