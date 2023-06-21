@@ -599,10 +599,10 @@ site_verification:
   #   content: xxxxxx
   # - name: google-site-verification
   #   content: A7Fx8YD_KaDTHFhVZSMh8xCcSFYzOJzLgeqWt0Ci1zI
-   - name: baidu-site-verification
-     content: codeva-xTXrWzcA5y
-   - name: bytedance-verification-code
-     content: LAJ1nNqYZ2TDmLAMcEf6
+  # - name: baidu-site-verification
+  #   content: codeva-xTXrWzcA5y
+  # - name: bytedance-verification-code
+  #   content: LAJ1nNqYZ2TDmLAMcEf6
 
 
 # Beautify/Effect (美化/效果)
