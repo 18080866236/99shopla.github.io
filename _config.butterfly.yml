@@ -7,7 +7,7 @@ nav:
   display_title: true
   fixed: false # fixed navigation bar
 
-# Menu 目錄
+# Menu 顶栏目录
 menu:
    首页: / || fas fa-home
    时间轴: /archives/ || fas fa-archive
@@ -19,7 +19,7 @@ menu:
    #友链: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
-# Code Blocks (代碼相關)
+# Code Blocks (代码相关)
 # --------------------------------------
 
 highlight_theme: mac #代码主题  darker / pale night / light / ocean / mac / mac light / false
@@ -33,46 +33,46 @@ code_word_wrap: false #代码换行
 # formal:
 #   icon: link || the description || color
 social:
-   fab fa-github: https://mbd.pub || Github || '#24292e'
+   fab fa-github: https://mbd.pub || mbd || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # Image (图片设置)
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /img/favicon.png
+favicon: https://s2.loli.net/2023/06/21/Y3RTZSom2qABtrj.png
 
 # Avatar (头像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://s2.loli.net/2023/06/21/Y3RTZSom2qABtrj.png
   effect: true #头像会一直旋转
 
-# Disable all banner image
+# Disable all banner image禁用所有横幅图像
 disable_top_img: false #顶部图
 
-# The banner image of home page
+# The banner image of home page主页的横幅图片
 index_img: https://file.crazywong.com/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
 
-# If the banner of page not setting, it will show the top_img
+# 如果页面的横幅没有设置，它将显示top_imgIf the banner of page not setting, it will show the top_img
 default_top_img:
 
-# The banner image of archive page
+# 存档页面的横幅图像The banner image of archive page
 archive_img:
 
-# If the banner of tag page not setting, it will show the top_img
+# If the banner of tag page not setting, it will show the top_img如果标签页的横幅没有设置，它将显示top_img
 # note: tag page, not tags page (子标签页面的 top_img)
 tag_img:
 
-# The banner image of tag page
+# The banner image of tag page标签页的横幅图片
 # format:
 #  - tag name: xxxxx
 tag_per_img:
 
-# If the banner of category page not setting, it will show the top_img
+# If the banner of category page not setting, it will show the top_img如果类别页面的横幅没有设置，它将显示top_img
 # note: category page, not categories page (子分类页面的 top_img)
 category_img:
 
-# The banner image of category page
+# The banner image of category page类别页面的横幅图像
 # format:
 #  - category name: xxxxx
 category_per_img:
@@ -89,7 +89,7 @@ cover:
   default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
 
-# Replace Broken Images (替换无法显示的图片)
+# Replace Broken Images (替换无法显示的图片404)
 error_img:
   flink: /img/friend_404.gif
   post_page: /img/404.jpg
@@ -102,19 +102,19 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
-    date_format: date # date/relative 顯示日期還是相對日期
-    categories: true # true or false 主頁是否顯示分類
-    tags: false # true or false 主頁是否顯示標籤
-    label: true # true or false 顯示描述性文字
+    date_type: created # created or updated or both 主頁文章日期是创建日或者更新日或都显示
+    date_format: date # date/relative 显示日期还是相对时间
+    categories: true # true or false 主页是否显示分类
+    tags: false # true or false 主页是否显示标签
+    label: true # true or false 显示描述性文字
   post:
-    date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
-    date_format: date # date/relative 顯示日期還是相對日期
-    categories: true # true or false 文章頁是否顯示分類
-    tags: true # true or false 文章頁是否顯示標籤
-    label: true # true or false 顯示描述性文字
+    date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
+    date_format: date # date/relative 显示日期還是相對日期
+    categories: true # true or false 文章頁是否显示分类
+    tags: true # true or false 文章頁是否显示标签
+    label: true # true or false 显示描述性文字
 
-# Display the article introduction on homepage
+# Display the article introduction on homepage首页显示文章介绍
 # 1: description
 # 2: both (if the description exists, it will show description, or show the auto_excerpt)
 # 3: auto_excerpt (default)
@@ -134,8 +134,8 @@ anchor:
 # figcaption (图片描述文字)
 photofigcaption: false
 
-# copy settings
-# copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
+# copy settings复制设置
+# copyright: Add the copyright information after copied content (复制的內容后面加上版权信息)
 copy:
   enable: true
   copyright:
@@ -145,7 +145,7 @@ copy:
 # Post
 # --------------------------------------
 
-# toc (目錄)
+# toc (目录)
 toc:
   post: true
   page: false
@@ -184,7 +184,7 @@ post_edit:
 related_post:
   enable: true
   limit: 6 # Number of posts displayed
-  date_type: created # or created or updated 文章日期顯示創建日或者更新日
+  date_type: created # or created or updated 文章日期显示创建日或者更新日
 
 # post_pagination (分頁)
 # value: 1 || 2 || false
@@ -193,7 +193,7 @@ related_post:
 # false: disable pagination
 post_pagination: 1
 
-# Displays outdated notice for a post (文章過期提醒)
+# Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
   enable: false
   style: flat # style: simple/flat
@@ -202,24 +202,24 @@ noticeOutdate:
   message_prev: It has been
   message_next: days since the last update, the content of the article may be outdated.
 
-# Footer Settings
+# Footer Settings页脚设置
 # --------------------------------------
 footer:
   owner:
     enable: true
     since: 2020
   custom_text:
-  copyright: true # Copyright of theme and framework
+  copyright: false # Copyright of theme and framework主题和框架的版权
 
-# aside (側邊欄)
+# aside (侧边栏)
 # --------------------------------------
 
 aside:
   enable: true
   hide: false
   button: true
-  mobile: true # display on mobile
-  position: right # left or right
+  mobile: true # display on mobile移动显示
+  position: right # left or right左或右
   display:
     archive: true
     tag: true
@@ -272,13 +272,13 @@ busuanzi:
   site_pv: true
   page_pv: true
 
-# Time difference between publish date and now (網頁運行時間)
+# Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true #网站运行时间
   publish_date: 6/17/2008 00:00:00
 
-# Aside widget - Newest Comments
+# Aside widget - Newest Comments-最新评论
 newest_comments:
   enable: false
   sort_order: # Don't modify the setting unless you know how it works
@@ -289,7 +289,7 @@ newest_comments:
 # Bottom right button (右下角按鈕)
 # --------------------------------------
 
-# Conversion between Traditional and Simplified Chinese (簡繁轉換)
+# Conversion between Traditional and Simplified Chinese (简繁转换)
 translate:
   enable: false
   # The text of a button
@@ -303,7 +303,7 @@ translate:
   # The text of the button when the language is Traditional Chinese
   msgToSimplifiedChinese: '簡'
 
-# Read Mode (閲讀模式)
+# Read Mode (阅读模式)
 readmode: true
 
 # dark mode
@@ -420,7 +420,7 @@ disqus:
   apikey: # For newest comments widget
 
 # Alternative Disqus - Render comments with Disqus API
-# DisqusJS 評論系統，可以實現在網路審查地區載入 Disqus 評論列表，兼容原版
+# DisqusJS 评论系统，可以实现在網路審查地區載入 Disqus 評論列表，兼容原版
 # https://github.com/SukkaW/DisqusJS
 disqusjs:
   shortname:
@@ -577,7 +577,7 @@ microsoft_clarity:
 # Advertisement
 # --------------------------------------
 
-# Google Adsense (谷歌廣告)
+# Google Adsense (谷歌广告)
 google_adsense:
   enable: false
   auto_ads: true
@@ -585,13 +585,13 @@ google_adsense:
   client:
   enable_page_level_ads: true
 
-# Insert ads manually (手動插入廣告)
+# Insert ads manually (手动插入广告)
 # ad:
 #   index:
 #   aside:
 #   post:
 
-# Verification (站長驗證)
+# Verification (搜索引擎站长验证)
 # --------------------------------------
 
 site_verification:
@@ -625,11 +625,11 @@ site_verification:
 #   meta_theme_color_dark: "#0d0d0d"
 
 # The top_img settings of home page
-# default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
-# The position of site info, eg: 300px/300em/300rem/10% (主頁標題距離頂部距離)
+# default: top img - full screen, site info - middle (默认top_img全屏，site_info在中间)
+# The position of site info, eg: 300px/300em/300rem/10% (主页标题距离顶部距离)
 index_site_info_top:
-# The height of top_img, eg: 300px/300em/300rem (主頁top_img高度)
-index_top_img_height:
+# The height of top_img, eg: 300px/300em/300rem (主页top_img高度)
+index_top_img_height: 400px
 
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
@@ -637,8 +637,8 @@ index_top_img_height:
 category_ui: # 留空或 index
 tag_ui: # 留空或 index
 
-# Website Background (設置網站背景)
-# can set it to color or image (可設置圖片 或者 顔色)
+# Website Background (设置网站背景)
+# can set it to color or image (可设置图片 或者 颜色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 background:
 
@@ -650,18 +650,18 @@ mask:
   header: true
   footer: true
 
-# the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
+# the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
 rightside-bottom:
 
-# Enter transitions (開啓網頁進入效果)
+# Enter transitions (开启网页进入效果)
 enter_transitions: true
 
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
-  shake: true #  open shake (抖動特效)
+  shake: true #  open shake (抖动特效)
   mobile: false
 
 # Background effects (背景特效)
@@ -674,13 +674,13 @@ canvas_ribbon:
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: false
-  mobile: false
+  click_to_change: false #設置是否每次點擊都更換綵帶
+  mobile: false # false 手機端不顯示 true 手機端顯示
 
-# Fluttering Ribbon (動態彩帶)
+# Fluttering Ribbon (动态彩带)
 canvas_fluttering_ribbon:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true # false 手機端不顯示 true 手機端顯示
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
@@ -692,18 +692,18 @@ canvas_nest:
   count: 99 # the number of lines, default: 99.
   mobile: false
 
-# Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
+# Mouse click effects: fireworks (鼠标点击效果: 烟火特效)
 fireworks:
-  enable: false
+  enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
 
-# Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
+# Mouse click effects: Heart symbol (鼠标点击效果: 爱心)
 click_heart:
   enable: false
   mobile: false
 
-# Mouse click effects: words (鼠標點擊效果: 文字)
+# Mouse click effects: words (鼠标点击效果: 文字)
 ClickShowText:
   enable: false
   text:
@@ -714,11 +714,11 @@ ClickShowText:
   random: false
   mobile: false
 
-# Default display mode (網站默認的顯示模式)
+# Default display mode (网站默认的显示模式)
 # light (default) / dark
 display_mode: light
 
-# Beautify (美化頁面顯示)
+# Beautify (美化页面显示)
 beautify:
   enable: false
   field: post # site/post
@@ -734,36 +734,41 @@ font:
   code-font-family:
 
 # Font settings for the site title and site subtitle
-# 左上角網站名字 主頁居中網站名字
+# 左上角网站名字 主页居中网站名字
 blog_title_font:
   font_link:
   font-family:
 
-# The setting of divider icon (水平分隔線圖標設置)
+# The setting of divider icon (水平分隔线图标设置)
 hr_icon:
   enable: true
   icon: # the unicode value of Font Awesome icon, such as '\3423'
   icon-top:
 
-# the subtitle on homepage (主頁subtitle)
+# the subtitle on homepage (主页打字效果subtitle)
 subtitle:
   enable: false
   # Typewriter Effect (打字效果)
   effect: true
-  # Customize typed.js (配置typed.js)
-  # https://github.com/mattboldt/typed.js/#customization
-  typed_option:
-  # source 調用第三方服務
-  # source: false 關閉調用
-  # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
-  # source: 2  調用一句網（簡體） https://yijuzhan.com/
-  # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
-  # subtitle 會先顯示 source , 再顯示 sub 的內容
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 150 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
+  # loop (循环打字)
+  loop: true
+  # source 调用第三方服务
+  source: false 关闭调用
+  # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
+  # source: 2  调用一句网（简体） http://yijuzhan.com/
+  source: 3  调用今日诗词（简体） https://www.jinrishici.com/
+  # subtitle 会先显示 source , 再显示 sub 的内容
   source: false
-  # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
+  # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
+    - 今日事&#44;今日畢
+    - Never put off till tomorrow what you can do today
 
-# Loading Animation (加載動畫)
+
+# Loading Animation (加载动画)
 preloader:
   enable: false
   # source
@@ -773,17 +778,17 @@ preloader:
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
 
-# wordcount (字數統計)
-# see https://butterfly.js.org/posts/ceeb73f/#字數統計
+# wordcount (字数统计)
+# see https://butterfly.js.org/posts/ceeb73f/#字数统计
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
 
-# Lightbox (圖片大圖查看模式)
+# Lightbox (图片大图查看模式)
 # --------------------------------------
-# You can only choose one, or neither (只能選擇一個 或者 兩個都不選)
+# You can only choose one, or neither (只能选择一个 或者 两个都不选)
 
 # medium-zoom
 # https://github.com/francoischalifour/medium-zoom
@@ -793,10 +798,10 @@ medium_zoom: false
 # https://fancyapps.com/fancybox/
 fancybox: true
 
-# Tag Plugins settings (標籤外掛)
+# Tag Plugins settings (标签外挂)
 # --------------------------------------
 
-# abcjs (樂譜渲染)
+# abcjs (乐谱渲染)
 # See https://github.com/paulrosen/abcjs
 abcjs:
   enable: false
