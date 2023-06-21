@@ -363,7 +363,7 @@ local_search:
   # 页面加载时预加载搜索数据。
   preload: true
   # 显示每篇文章的前n个结果，通过设置为-1显示所有结果
-  top_n_per_article: 1
+  top_n_per_article: -1
   # 将html字符串转义为可读字符串。
   unescape: false
   CDN:
