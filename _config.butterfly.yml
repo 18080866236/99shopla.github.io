@@ -595,14 +595,15 @@ google_adsense:
 # --------------------------------------
 
 site_verification:
-    - name: google-site-verification
-      content: A7Fx8YD_KaDTHFhVZSMh8xCcSFYzOJzLgeqWt0Ci1zI
-    - name: baidu-site-verification
-      content: codeva-xTXrWzcA5y
-    - name: bytedance-verification-code
-      content: LAJ1nNqYZ2TDmLAMcEf6
-    - name: msvalidate.01
-      content: 540C632431EB6BE84AF300922E946E0F
+  # - name: google-site-verification
+  #   content: xxxxxx
+  # - name: google-site-verification
+  #   content: A7Fx8YD_KaDTHFhVZSMh8xCcSFYzOJzLgeqWt0Ci1zI
+   - name: baidu-site-verification
+     content: codeva-xTXrWzcA5y
+   - name: bytedance-verification-code
+     content: LAJ1nNqYZ2TDmLAMcEf6
+
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
