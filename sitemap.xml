@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://99shopla.com/SD%20WEBUI/</loc>
+    
+    <lastmod>2023-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://99shopla.com/hello-template/</loc>
     
     <lastmod>2023-06-21</lastmod>
@@ -36,6 +45,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/</loc>
+    <lastmod>2023-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/AI%E7%94%BB%E5%9B%BE/</loc>
+    <lastmod>2023-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
