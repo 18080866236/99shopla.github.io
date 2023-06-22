@@ -9,6 +9,7 @@ tags:
 - AI绘图
 title: stable diffusion [ControlNet1.1使用分享]
 updated: 2023-6-22T20:19:21.709+8:0
+cover: https://s2.loli.net/2023/06/22/48ZWREtiKCe6wDL.jpg
 ---
 # [ControlNet1.1使用分享]
 
