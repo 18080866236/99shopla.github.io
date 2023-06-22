@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://99shopla.com/tags/index.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://99shopla.com/posts/97ca.html</loc>
     
     <lastmod>2023-06-22</lastmod>
@@ -21,6 +30,15 @@
   
   <url>
     <loc>https://99shopla.com/posts/3f78.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/posts/1861.html</loc>
     
     <lastmod>2023-06-22</lastmod>
     
@@ -73,15 +91,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://99shopla.com/tags/index.html</loc>
-    
-    <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://99shopla.com/</loc>
@@ -93,6 +102,13 @@
   
   <url>
     <loc>https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/AI%E7%BB%98%E5%9B%BE/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -137,6 +153,13 @@
   
   <url>
     <loc>https://99shopla.com/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
