@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hexo Template</title>
-      <link href="/AI%E7%BB%98%E7%94%BB/"/>
-      <url>/AI%E7%BB%98%E7%94%BB/</url>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
       
         <content type="html"><![CDATA[<p>我的博客</p>]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>hello,word</title>
-      <link href="/hello-template/"/>
-      <url>/hello-template/</url>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
       
         <content type="html"><![CDATA[<h1 id="H1"><a href="#H1" class="headerlink" title="H1"></a>H1</h1><h2 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h2><h3 id="H3"><a href="#H3" class="headerlink" title="H3"></a>H3</h3><h4 id="H4"><a href="#H4" class="headerlink" title="H4"></a>H4</h4><h5 id="H5"><a href="#H5" class="headerlink" title="H5"></a>H5</h5><h6 id="H6"><a href="#H6" class="headerlink" title="H6"></a>H6</h6><p>Alternatively, for H1 and H2, an underline-ish style:</p><h1 id="Alt-H1"><a href="#Alt-H1" class="headerlink" title="Alt-H1"></a>Alt-H1</h1><h2 id="Alt-H2"><a href="#Alt-H2" class="headerlink" title="Alt-H2"></a>Alt-H2</h2>]]></content>
       
@@ -31,8 +31,8 @@
     
     <entry>
       <title>SD WEBUI</title>
-      <link href="/SD%20WEBUI/"/>
-      <url>/SD%20WEBUI/</url>
+      <link href="/posts/.html"/>
+      <url>/posts/.html</url>
       
         <content type="html"><![CDATA[<p>SD WEB UI</p>]]></content>
       

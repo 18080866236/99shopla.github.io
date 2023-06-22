@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://99shopla.com/AI%E7%BB%98%E7%94%BB/</loc>
+    <loc>https://99shopla.com/posts/undefined.html</loc>
     
-    <lastmod>2023-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://99shopla.com/SD%20WEBUI/</loc>
-    
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://99shopla.com/hello-template/</loc>
+    <loc>https://99shopla.com/posts/.html</loc>
     
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/posts/undefined.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://99shopla.com/about.html</loc>
     
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://99shopla.com/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,21 +48,21 @@
   
   <url>
     <loc>https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://99shopla.com/tags/AI%E7%94%BB%E5%9B%BE/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://99shopla.com/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
