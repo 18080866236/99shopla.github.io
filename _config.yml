@@ -117,7 +117,7 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
 
 baidu_url_submit:
   count: 30 #提交最新的多少个链接
