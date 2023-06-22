@@ -10,13 +10,12 @@ tags:
 title: Adobe PhotoShop 最新（beta） Firefly AI 功能
 updated: 2023-6-22T17:44:47.491+8:0
 ---
-![adobe photoshop bata.png](/img/adobephotoshopbata.png)
+![adobe photoshop bata.png](https://s2.loli.net/2023/06/22/xpX82jIsAzWJk4L.png)
 
-CreativeCloud 最新安裝包：【**[點擊下載](https://creativecloud.adobe.com/apps/download/creative-cloud)**】
+CreativeCloud 最新安裝包：【**[点击下载](https://creativecloud.adobe.com/apps/download/creative-cloud)**】
 
-**【注意】：註冊的時候請選擇美國地區，大陸地區請用美國ip，就無需綁卡。**
+**【注意】：注册的时候请选择美国地区，大陆地区请用美国ip，就无需绑卡。**
 
-如果登錄的大陸地區賬號，在Adobe Creative Cloud裡面先註銷賬號，如果沒有美國地區賬號，點擊註冊新賬號，用任意郵箱註冊，地區填寫美國(特別重要)，使用註冊的新賬號登錄Adobe Creative Cloud即可。
+如果登录的大陆地区账号，在Adobe Creative Cloud裡面先注销账号，如果没有美国地区账号，点击注册新账号，用任意邮箱注册，地区填写美国(特别重要)，使用注册的新账号登录Adobe Creative Cloud即可。
 
-目前AI創成式填充工具國內賬號經常出現系統繁忙或者生成圖像出錯，盡量用VPN掛國外IP使用，國外IP使用正常，沒有一次生成圖像失敗。
-
+目前AI创成式填充工具国内账号经常出现系统繁忙或者生成图像出错，尽量用挂国外IP使用，国外IP使用正常，没有一次生成图像失败。
