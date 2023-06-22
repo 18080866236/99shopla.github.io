@@ -87,7 +87,9 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg# Replace Broken Images (替换无法显示的图片)
+     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+     
+# Replace Broken Images (替换无法显示的图片)
 error_img:
   flink: /img/friend_404.gif
   post_page: /img/404.jpg
@@ -95,7 +97,7 @@ error_img:
 # A simple 404 page 一个简单的404页面
 error_404:
   enable: true
-  subtitle: 'Page Not Found'
+  subtitle: '你访问的页面消失啦，返回吧！'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta: # 页面META显示
