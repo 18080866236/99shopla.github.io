@@ -4,9 +4,9 @@
 
 # Site
 title: 魔法绘画网
-subtitle: ''
-description: ''
-keywords:
+subtitle: '换个角度，你会发现不一样的美！'
+description: '分享各种有趣的、好玩的黑科技！跟着我不迷路。'
+keywords: '小白搭建教程,网络资源,免费教程,实用软件,网络技术,电脑软件,精品软件,技术分享'
 author: 眰恦
 language: zh-CN
 timezone: ''
@@ -14,11 +14,26 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://99shopla.com
-permalink: :title/
+#链接转换数字 安装插件npm install hexo-abbrlink --save
+permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+# abbrlink config
+abbrlink:
+  alg: crc16      #支持crc16（默认）和crc32
+  rep: hex        #支持dec（默认）和hex
+  drafts: false   #（true）处理草稿，（false）不处理草稿。假（默认）
+  # 从目录树生成类别
+  # 深度：你要生成的目录树的max_depth，应该>0
+  auto_category:
+     enable: true  #true(默认)
+     depth:        #3(默认)
+     over_write: false 
+  auto_title: false #启用自动标题，可以按路径自动填充标题
+  auto_date: false #启用自动日期，它可以按今天的时间自动填写日期
+  force: false #启用强制模式，在这种模式下，插件将忽略缓存，并计算每个帖子的abbrlink，即使它已经有abbrlink。这只更新abbrlink而不是其他前端变量。
 
 # Directory
 source_dir: source
@@ -104,4 +119,29 @@ theme: butterfly
 deploy:
   type: ''
 
+baidu_url_submit:
+  count: 30 #提交最新的多少个链接
+  host: 99shopla.com #在百度站长添加的域名
+  token: adfaf #秘钥
+  path: baidu_url.txt #文本地址，新链接会保存在此
 
+#生成RSS npm install hexo-generator-feed --save
+feed:
+  enable: true
+  type: 
+    - atom
+    - rss2
+  path: 
+    - atom.xml #提要路径。当两种类型都指定时，path必须遵循类型值的顺序。（默认值：atom. xml/rss2.xml）
+    - rss2.xml
+  limit: 20 #提要中的最大帖子数（使用或显示所有帖子）
+  hub: #PubSubHubbub中心的URL（如果您不使用它，请将其留空）
+  content: #（可选）设置为“true”以在提要中包含整个帖子的内容。
+  content_limit: 140 #
+  content_limit_delim: ' ' #
+  order_by: -date #
+  icon: icon.png #
+  autodiscovery: true #
+  template: #
+
+  
