@@ -10,10 +10,10 @@ nav:
 # Menu 菜单栏目录
 menu:
    首页: / || fas fa-home
-   时间轴: /archives/ || fas fa-archive
+   时间轴: /archives/ || fas fa-clock
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
-   美图: /photo/ || as fa-photo-video
+   美图: /photo/ || fas fa-photo-video
   # 清单||fas fa-list:
       
   #   音乐: /music/ || fas fa-music
