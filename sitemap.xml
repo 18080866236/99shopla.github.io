@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://99shopla.com/posts/629.html</loc>
+    <loc>https://99shopla.com/posts/97ca.html</loc>
     
     <lastmod>2023-06-22</lastmod>
     
@@ -94,6 +94,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://99shopla.com/tags/PS/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://99shopla.com/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
