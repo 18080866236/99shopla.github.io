@@ -8,6 +8,7 @@ tags:
 - AI智能
 title: style2paints – 最强的线描图画上色工具！不需要安装任何环境、做任何配置，下载然后双击即可！
 updated: 2023-6-22T19:30:17.333+8:0
+cover: https://www.freedidi.com/wp-content/uploads/2023/01/freedidi.com_2023-01-24-124200.jpg
 ---
 # style2paints – 最强的线描图画上色工具！不需要安装任何环境、做任何配置，下载然后双击即可！
 
