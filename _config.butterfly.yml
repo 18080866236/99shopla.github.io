@@ -13,7 +13,9 @@ menu:
    时间轴: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
+   美图: /photo/ || as fa-photo-video
   # 清单||fas fa-list:
+      
   #   音乐: /music/ || fas fa-music
   #   视频: /movies/ || fas fa-video
   # 友链: /link/ || fas fa-link
