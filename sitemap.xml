@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://99shopla.com/tags/index.html</loc>
-    
-    <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://99shopla.com/posts/97ca.html</loc>
     
     <lastmod>2023-06-22</lastmod>
@@ -56,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://99shopla.com/404.html</loc>
-    
-    <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://99shopla.com/about/index.html</loc>
     
     <lastmod>2023-06-22</lastmod>
@@ -91,6 +73,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://99shopla.com/tags/index.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/404.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://99shopla.com/</loc>
@@ -108,14 +108,21 @@
   </url>
   
   <url>
-    <loc>https://99shopla.com/tags/AI%E7%BB%98%E5%9B%BE/</loc>
+    <loc>https://99shopla.com/tags/AI%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://99shopla.com/tags/AI%E6%99%BA%E8%83%BD/</loc>
+    <loc>https://99shopla.com/tags/AI%E7%94%BB%E5%9B%BE/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/AI%E7%BB%98%E5%9B%BE/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -130,13 +137,6 @@
   
   <url>
     <loc>https://99shopla.com/tags/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://99shopla.com/tags/AI%E7%94%BB%E5%9B%BE/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
