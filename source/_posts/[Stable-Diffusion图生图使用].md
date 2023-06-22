@@ -10,6 +10,7 @@ tags:
 - AI绘画
 title: '[Stable-Diffusion图生图使用]'
 updated: 2023-6-22T20:9:53.38+8:0
+cover: https://s2.loli.net/2023/06/22/Hal4ORF7bwXTMCz.jpg
 ---
 # [Stable-Diffusion图生图使用]
 
