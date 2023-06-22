@@ -10,6 +10,7 @@ tags:
 - AI画图
 title: Stable Diffision插件使用
 updated: 2023-6-22T20:15:2.951+8:0
+cover: https://s2.loli.net/2023/06/22/U5MRNc8e1XrdpKx.jpg
 ---
 # [Stable Diffision插件使用]
 
