@@ -289,34 +289,34 @@ newest_comments:
 # Bottom right button (右下角按鈕)
 # --------------------------------------
 
-# Conversion between Traditional and Simplified Chinese (簡繁轉換)
+# 简体中文与繁体中文的转换 (简繁转换)
 translate:
-  enable: false
-  # The text of a button
+  enable: true
+  # 按钮的文本
   default: 繁
-  # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
+  # 网站语言（1-繁体中文/2-简体中文）
   defaultEncoding: 2
-  # Time delay
+  # 时间延迟
   translateDelay: 0
-  # The text of the button when the language is Simplified Chinese
+  # 语言为简体中文时按钮的文本
   msgToTraditionalChinese: '繁'
-  # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '簡'
+  # 语言为繁体中文时按钮的文本
+  msgToSimplifiedChinese: '简'
 
-# Read Mode (閲讀模式)
+# Read Mode (阅读模式)
 readmode: true
 
 # dark mode
 darkmode:
   enable: true
-  # Toggle Button to switch dark/light mode
+  # 切换按钮以切换暗/光模式
   button: true
-  # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
-  # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
-  # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
+  # 自动切换暗/光模式 (自動切換 dark mode和 light mode)
+  # autoChangeMode：1按照系统设置，如果系统不支持暗模式，它会在下午6点到早上6点之间切换暗模式
+  # autoChangeMode： 2在下午6点到早上6点之间切换黑暗模式
   # autoChangeMode: false
-  autoChangeMode: false
-  # Set the light mode time. The value is between 0 and 24. If not set, the default value is 6 and 18
+  autoChangeMode: 1
+  # 设置灯光模式时间。值在0到24之间。如果未设置，默认值为6和18
   start: # 8
   end: # 22
 
