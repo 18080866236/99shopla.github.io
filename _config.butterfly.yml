@@ -778,10 +778,10 @@ preloader:
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
 
-# wordcount (字数统计)
+# wordcount (字数统计 npm install hexo-wordcount --save)
 # see https://butterfly.js.org/posts/ceeb73f/#字数统计
 wordcount:
-  enable: false
+  enable: trun
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -952,7 +952,7 @@ sitemap:
   categories: true
   option:
 
-  
+
     # main_css:
     # main:
     # utils:
