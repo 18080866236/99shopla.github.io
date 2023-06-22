@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://99shopla.com/tags/index.html</loc>
-    
-    <lastmod>2023-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://99shopla.com/posts/f094.html</loc>
     
     <lastmod>2023-06-22</lastmod>
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://99shopla.com/categories/index.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/index.html</loc>
     
     <lastmod>2023-06-22</lastmod>
     
