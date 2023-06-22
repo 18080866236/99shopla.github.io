@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>魔法绘画网</title>
+  <icon>https://99shopla.com/icon.png</icon>
+  <subtitle>换个角度，你会发现不一样的美！</subtitle>
+  <link href="https://99shopla.com/atom.xml" rel="self"/>
+  
+  <link href="https://99shopla.com/"/>
+  <updated>2023-06-22T03:48:05.792Z</updated>
+  <id>https://99shopla.com/</id>
+  
+  <author>
+    <name>眰恦</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Template</title>
+    <link href="https://99shopla.com/posts/f094.html"/>
+    <id>https://99shopla.com/posts/f094.html</id>
+    <published>2023-06-22T03:48:05.792Z</published>
+    <updated>2023-06-22T03:48:05.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello,word</title>
+    <link href="https://99shopla.com/posts/629.html"/>
+    <id>https://99shopla.com/posts/629.html</id>
+    <published>2023-06-22T03:48:05.792Z</published>
+    <updated>2023-06-22T03:48:05.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SD WEBUI</title>
+    <link href="https://99shopla.com/posts/3f78.html"/>
+    <id>https://99shopla.com/posts/3f78.html</id>
+    <published>2023-06-21T15:45:22.355Z</published>
+    <updated>2023-06-22T03:48:05.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="AI绘画" scheme="https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/"/>
+    
+    <category term="AI画图" scheme="https://99shopla.com/tags/AI%E7%94%BB%E5%9B%BE/"/>
+    
+    <category term="软件" scheme="https://99shopla.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+</feed>
