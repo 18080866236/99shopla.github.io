@@ -1,5 +1,5 @@
 ---
-title: 404 Not Found
+title: 404 Not Found 你访问的页面消失啦，返回吧！
 date: 2022-11-20 13:03:13
 comments: false
 permalink: /404.html
