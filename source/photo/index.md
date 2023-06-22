@@ -15,11 +15,10 @@ title: 由AI生成的超真实的美图！
 
 ![girl _1_.png](https://s2.loli.net/2023/06/22/L8WMOJeIvrPpnQU.png)
 ![girl _2_.png](https://s2.loli.net/2023/06/22/JIebUoNzdDLk7cu.png)
-![](https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg)
-![](https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg)
-![](https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg)
-![](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
-![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
+![freedidi.comwidth1296-1-972x1536.jpg](https://s2.loli.net/2023/06/22/o972dH1xaCcw68p.jpg)
+![freedidi.comwidth1296-972x1536.jpg](https://s2.loli.net/2023/06/22/RjWmbvNsa9OF86Q.jpg)
+![freedidi.comwidth1296-3-972x1536.jpg](https://s2.loli.net/2023/06/22/ukCJyE9rcZtiezs.jpg)
+
 {% endgallery %}
 
 
