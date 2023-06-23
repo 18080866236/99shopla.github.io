@@ -3,7 +3,6 @@ abbrlink: ''
 categories:
 - - 免费资源
 - - 基础教程
-cover: '![27ede177-f1bf-4a25-b820-715f8260643f.png](https://s2.loli.net/2023/06/23/Q8PJowSMick5Vry.png)'
 date: '2023-06-23T17:58:22.326092+08:00'
 tags:
 - AI智能
