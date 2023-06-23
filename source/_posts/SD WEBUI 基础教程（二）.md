@@ -3,17 +3,15 @@ abbrlink: ''
 categories:
 - - 免费资源
 - - 基础教程
-cover: '![05c2db0f0cf3d7cae14c17bbb71fbe096963a9a3.jpg](https://s2.loli.net/2023/06/23/yb6irZotHdPIDMf.jpg)'
 date: '2023-06-23T17:18:24.434059+08:00'
 tags:
 - AI智能
 - AI绘画
 - AI绘图
 title: SD WEBUI 基础教程（二）
-updated: 2023-6-23T17:18:25.211+8:0
+updated: 2023-6-23T20:12:12.191+8:0
 ---
 # 给新人的sd webui安装教程
-
 
 ## prompt提示词结构
 
