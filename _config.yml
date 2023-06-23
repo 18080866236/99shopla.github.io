@@ -117,7 +117,9 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+   type: 
+     - git
+     - url_submission
 
 baidu_url_submit:
   count: 30 #提交最新的多少个链接
@@ -148,5 +150,49 @@ feed:
   aplayer: 
   meting: true
   asset_inject: false
+
+#中文链接转拼音
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
+
+#链接自动提交 
+  url_submission:
+   enable: true
+   type: 'latest' # latest最新或all全部（最新：修改页面；全部：帖子和页面）
+   channels: # 包含的频道有“百度”、“谷歌”、“必应”、“神马”
+     baidu:
+       token: "6hhRURXSj0EWE0sS" # Baidu Private Token
+       count: 10 # Optional
+     bing:
+       token: "sampleapikeyEEDECC1EA4AE341CC57365E075EBC8B6" # Bing Access Token
+       count: 10 # Optional
+     google:
+       key: "google.json" # Google key path (e.g. `google_key.json` or `data/google_key.json`)
+       count: 10 # Optional
+     shenma:
+       count: 10 # Optional
+       user: "838325042@qq.com" # 注册时使用的用户名
+       token: "" # ShenMa Private Key
+   prefix: ['/post', '/wiki'] # 网址前缀
+   ignore: ["/post/a*", "/post/a?c"] #不需要提交的URL地址（支持通配符）
+   count: 10 # 提交限制
+   urls_path: 'submit_url.txt' # URL列表文件路径
+   sitemap: 'submit_url.txt' #站点地图路径（例如url是这样的https://abnerwei.com/baidusitemap.xml，可以填写'baidusitemap. xml'）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
