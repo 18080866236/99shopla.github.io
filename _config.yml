@@ -123,7 +123,7 @@ deploy:
 
 baidu_url_submit:
   count: 30 #提交最新的多少个链接
-  host: 99shopla.com #在百度站长添加的域名
+  host: https://99shopla.com #在百度站长添加的域名
   token: 6hhRURXSj0EWE0sS #秘钥
   path: baidu_url.txt #文本地址，新链接会保存在此
 
