@@ -3,14 +3,14 @@ abbrlink: ''
 categories:
 - - 免费资源
 - - 基础教程
-cover: '![27ede177-f1bf-4a25-b820-715f8260643f.webp](https://s2.loli.net/2023/06/23/gwB9N51nqh4oKJE.webp)'
+cover: '![27ede177-f1bf-4a25-b820-715f8260643f.png](https://s2.loli.net/2023/06/23/Q8PJowSMick5Vry.png)'
 date: '2023-06-23T17:58:22.326092+08:00'
 tags:
 - AI智能
 - AI绘画
 - AI绘图
 title: SD WEBUI 基础教程（三）
-updated: 2023-6-23T19:29:2.321+8:0
+updated: 2023-6-23T19:39:33.118+8:0
 ---
 # 使用tags的小技巧及关键词
 
