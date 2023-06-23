@@ -15,14 +15,14 @@
     <atom:link href="https://99shopla.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>分享各种有趣的、好玩的黑科技！跟着我不迷路。</description>
-    <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
+    <pubDate>Fri, 23 Jun 2023 09:49:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>Adobe PhotoShop 最新（beta） Firefly AI 功能</title>
       <link>https://99shopla.com/posts/97ca.html</link>
       <guid>https://99shopla.com/posts/97ca.html</guid>
-      <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
+      <pubDate>Fri, 23 Jun 2023 09:49:26 GMT</pubDate>
       
         
         
@@ -53,7 +53,7 @@
       <title>Hexo Template</title>
       <link>https://99shopla.com/posts/f094.html</link>
       <guid>https://99shopla.com/posts/f094.html</guid>
-      <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
+      <pubDate>Fri, 23 Jun 2023 09:49:26 GMT</pubDate>
       
         
         
@@ -69,6 +69,39 @@
       
       
       <comments>https://99shopla.com/posts/f094.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>SD WEBUI 基础教程（二）</title>
+      <link>https://99shopla.com/posts/b5e6.html</link>
+      <guid>https://99shopla.com/posts/b5e6.html</guid>
+      <pubDate>Fri, 23 Jun 2023 09:18:24 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://99shopla.com/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/">免费资源</category>
+      
+      <category domain="https://99shopla.com/categories/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/">基础教程</category>
+      
+      
+      <category domain="https://99shopla.com/tags/AI%E6%99%BA%E8%83%BD/">AI智能</category>
+      
+      <category domain="https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/">AI绘画</category>
+      
+      <category domain="https://99shopla.com/tags/AI%E7%BB%98%E5%9B%BE/">AI绘图</category>
+      
+      
+      <comments>https://99shopla.com/posts/b5e6.html#disqus_thread</comments>
       
     </item>
     
