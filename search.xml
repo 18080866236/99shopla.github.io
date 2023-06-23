@@ -46,6 +46,37 @@
     
     
     <entry>
+      <title>SD WEBUI 基础教程（三）</title>
+      <link href="/posts/b99f.html"/>
+      <url>/posts/b99f.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="使用tags的小技巧及关键词"><a href="#使用tags的小技巧及关键词" class="headerlink" title="使用tags的小技巧及关键词"></a>使用tags的小技巧及关键词</h1><h2 id="一、tags小技巧"><a href="#一、tags小技巧" class="headerlink" title="一、tags小技巧"></a>一、tags小技巧</h2><p>分享一些tags<br>1、构图<br>在使用SD模型生成图片时，需要注意一些细节。SD模型的训练数据来自于网络，因此tags（标签）更倾向于使用口语化表达，而非专业术语。这意味着一些常见的景别描述如”medium shot”（中景）和”full shot”（全景）可能无法产生理想的效果，因为这些表述很少出现在训练数据中。然而，也有一些例外情况。有些模型在微调过程中可能添加了更专业的tags，这样就能够更好地生成对应的景别效果。<br>另外，还有一些特定的术语如”cowboy shot”（牛仔镜头）可能无法被一些模型正确识别，导致生成的图片中出现牛仔服装的人物。为了避免这种情况，可以通过在negative prompt（负向提示侧）中加入其他关键词，如”full body”（全身）或”closeup”（特写），以限制生成范围，从而得到所需的景别效果。<br>再次提醒，使用这些tags生成的图片不会100%地符合预期。因此，不能仅仅依靠单张图片的内容来判断prompt是否合适。为了达到更好的效果，建议一次性生成多张图片，然后根据需要情况来调整提示。<br>当我们观察生成的多张图片时，可以结合我们的需求和判断来调整prompt。根据生成的结果，我们可以选择调整关键词、添加限制条件或者尝试不同的表达方式。通过这种迭代的方法，我们可以逐渐接近想要的效果。<br>以下是一些示例：</p><p><img src="https://s2.loli.net/2023/06/23/NGwjYnQrl2xRmMz.jpg" alt="c65560eb15ce36d3b0afdcfd7ff33a87eb50b1b2.jpg"></p><p><img src="https://s2.loli.net/2023/06/23/G3iw921xyRpcF6J.jpg" alt="a97baa3a5bb5c9ea76585c2e9039b60038f3b3b2.jpg"></p><p>2、风格<br>在使用标签生成图片时，有时会发现使用一些风格类的关键词，如”illustration”（插画）、”cartoon”（卡通）等，生成的图片风格非常多样。这是因为训练数据中的插画风格本身就包含了很多不同的风格变化。为了更好地控制生成的结果，我们可以进一步限定生成范围：</p><ol><li>通过添加关键词如”flat design”（扁平化设计）、”2D”等，来生成更平面的插画风格。这样可以使生成的图片更加符合平面插画的特点。另外，通过再negative prompt添加与期望风格相反的关键词，也能够限定生成的结果，以获得与之相反的风格效果。</li><li>通过添加相关艺术家的名字或艺术家关键词，可以引导模型生成更具特征性和独特的图片。艺术家关键词通常与特定的艺术风格或创作方式相关，因此可以帮助我们缩小生成范围，更加准确地获得所需的效果。<br>以下是一些示例：<br><img src="https://s2.loli.net/2023/06/23/vVz4isJykpwIlHM.jpg" alt="39efe2fafbedab6403eb120db236afc37b311e47.jpg"></li></ol><p>3、媒介<br>单独使用媒介tag，也会出现风格非常多样的图片，原因跟之前提到的完全一样，解决方法也完全相同，这里不再赘述。<br>以下是一些示例：</p><p><img src="https://s2.loli.net/2023/06/23/dYKCDuUxAgL13Jw.jpg" alt="4cf3daf182025aaf58a72106beedab64014f1a4c.jpg"></p><p>4、增加细节<br>生成的图片如果觉得细节不够丰富，那么就可以添加下面的关键词来改进<br>Highly detailed：通过观察人物的衣服和背后的蘑菇等细节，可以明显看出与对比图相比，添加了这个关键词后，生成的图片会更具细节。<br>Intricate pattern：通过添加更多的纹理，特别是在人物的衣服上，可以使生成的图片更加丰富多样。<br>Ornate：通过添加装饰品，例如人物头发上的发夹，以及额外的装饰物在手臂上，可以增添图片的华丽感。<br>Vary：Vary是一种渲染引擎，有时候能够产生出不错的效果。可以尝试使用这个关键词来获得更丰富的渲染效果。<br>以下是一些示例：</p><p><img src="https://s2.loli.net/2023/06/23/Uxqz3polXdw1bGJ.jpg" alt="4ce91adf9c82d158780f067cc50a19d8be3e4254.jpg"></p><p>5、灯光效果<br>调整灯光效果是一项相对困难的任务，因为SD模型缺乏对三维空间的理解能力，因此很难准确呈现不同方位灯光的效果。然而，通过添加相关的关键词仍然可以产生一定效果。这是因为虽然SD无法理解三维空间，但它对于图片的色调和明暗有很好的学习能力。<br>例如，关键词”back light”虽然无法真正呈现背光效果，但会使人物正面变暗，并给头发产生发光的效果。另外，关键词”hard light”相对于”soft light”会产生更高对比度的图片，这是使用硬光的特点之一。如果你有摄影经验，这应该不难理解。<br>需要注意的是，有些光效关键词还可以用其他表达方式来表示。例如，”side light”也可以表达为”side lights”。如果发现效果不明显，可以尝试添加更多类似的词语来进一步调整灯光效果。其他类型的关键词也可能有相似的情况。</p><p><img src="https://s2.loli.net/2023/06/23/rmO2NRHQplA1yCI.jpg" alt="ae1a2b8aa61ea8d343a82bc9d20a304e271f5853.jpg"></p><p>6、颜色氛围<br>这个不多解释，非常直观。<br>SD对颜色信息的学习没啥难度，因此操控起来显得比较轻松。<br>以下是一些示例：</p><p><img src="https://s2.loli.net/2023/06/23/SEHol1eauIVQpvh.jpg" alt="8dd8fa42fbf2b211e3a8da838f8065380ed78e5f.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 免费资源 </category>
+          
+          <category> 基础教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI智能 </tag>
+            
+            <tag> AI绘画 </tag>
+            
+            <tag> AI绘图 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SD WEBUI 基础教程（二）</title>
       <link href="/posts/b5e6.html"/>
       <url>/posts/b5e6.html</url>
