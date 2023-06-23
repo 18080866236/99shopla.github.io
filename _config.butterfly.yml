@@ -89,6 +89,20 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
+     - https://s2.loli.net/2023/06/23/nHXCdT9LFRpjEou.jpg         
+     - https://s2.loli.net/2023/06/23/8yC3AGFJjpwHQ42.jpg
+     - https://s2.loli.net/2023/06/23/upFOf6eUYVK7WJq.jpg
+     - https://s2.loli.net/2023/06/23/aUCNbjrhKx5i3GS.jpg
+     - https://s2.loli.net/2023/06/23/UKzeEYHL7XjswJm.jpg
+     - https://s2.loli.net/2023/06/23/127nKxHqTQ5Mz4O.jpg
+     - https://s2.loli.net/2023/06/23/8iS4WzJtM9kLplg.jpg
+     - https://s2.loli.net/2023/06/23/C1fkXudqoZI985c.jpg
+     - https://s2.loli.net/2023/06/23/VkqnFWvxoyJaK5f.jpg
+     - https://s2.loli.net/2023/06/23/AWduYzeVrNsUGq6.jpg
+     - https://s2.loli.net/2023/06/23/LvBgI1Fk9AMlsNX.jpg
+     - https://s2.loli.net/2023/06/23/vi3Y4SMLGpkgwsD.jpg
+     - https://s2.loli.net/2023/06/23/aYC86ZUzIFtpSQ9.jpg
+     - https://s2.loli.net/2023/06/23/pabfcMCLh4sQEe1.jpg
      - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
      
 # Replace Broken Images (替换无法显示的图片)
