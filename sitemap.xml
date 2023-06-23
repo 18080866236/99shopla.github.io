@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://99shopla.com/photo/index.html</loc>
-    
-    <lastmod>2023-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://99shopla.com/tags/index.html</loc>
-    
-    <lastmod>2023-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://99shopla.com/posts/97ca.html</loc>
     
     <lastmod>2023-06-23</lastmod>
@@ -38,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://99shopla.com/posts/3f78.html</loc>
+    <loc>https://99shopla.com/posts/c369.html</loc>
     
     <lastmod>2023-06-23</lastmod>
     
@@ -65,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://99shopla.com/404.html</loc>
-    
-    <lastmod>2023-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://99shopla.com/about/index.html</loc>
     
     <lastmod>2023-06-23</lastmod>
@@ -84,6 +57,33 @@
   
   <url>
     <loc>https://99shopla.com/categories/index.html</loc>
+    
+    <lastmod>2023-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/photo/index.html</loc>
+    
+    <lastmod>2023-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/tags/index.html</loc>
+    
+    <lastmod>2023-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/404.html</loc>
     
     <lastmod>2023-06-23</lastmod>
     
@@ -160,6 +160,13 @@
   
   <url>
     <loc>https://99shopla.com/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2023-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://99shopla.com/categories/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

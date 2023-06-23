@@ -15,14 +15,14 @@
     <atom:link href="https://99shopla.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>分享各种有趣的、好玩的黑科技！跟着我不迷路。</description>
-    <pubDate>Fri, 23 Jun 2023 00:01:11 GMT</pubDate>
+    <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>Adobe PhotoShop 最新（beta） Firefly AI 功能</title>
       <link>https://99shopla.com/posts/97ca.html</link>
       <guid>https://99shopla.com/posts/97ca.html</guid>
-      <pubDate>Fri, 23 Jun 2023 00:01:11 GMT</pubDate>
+      <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
       
         
         
@@ -53,7 +53,7 @@
       <title>Hexo Template</title>
       <link>https://99shopla.com/posts/f094.html</link>
       <guid>https://99shopla.com/posts/f094.html</guid>
-      <pubDate>Fri, 23 Jun 2023 00:01:11 GMT</pubDate>
+      <pubDate>Fri, 23 Jun 2023 09:18:30 GMT</pubDate>
       
         
         
@@ -135,9 +135,9 @@
     </item>
     
     <item>
-      <title>SD WEBUI</title>
-      <link>https://99shopla.com/posts/3f78.html</link>
-      <guid>https://99shopla.com/posts/3f78.html</guid>
+      <title>SD WEBUI基础教程（一）</title>
+      <link>https://99shopla.com/posts/c369.html</link>
+      <guid>https://99shopla.com/posts/c369.html</guid>
       <pubDate>Wed, 21 Jun 2023 15:45:22 GMT</pubDate>
       
         
@@ -151,6 +151,10 @@
       
       
       
+      <category domain="https://99shopla.com/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/">免费资源</category>
+      
+      <category domain="https://99shopla.com/categories/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/">基础教程</category>
+      
       
       <category domain="https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/">AI绘画</category>
       
@@ -159,7 +163,7 @@
       <category domain="https://99shopla.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       
-      <comments>https://99shopla.com/posts/3f78.html#disqus_thread</comments>
+      <comments>https://99shopla.com/posts/c369.html#disqus_thread</comments>
       
     </item>
     
