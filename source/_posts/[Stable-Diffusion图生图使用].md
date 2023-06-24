@@ -1,16 +1,16 @@
 ---
-abbrlink: ''
+abbrlink: '1861'
 categories:
-- - 免费资源
-- - 使用教程
+  - - 免费资源
+  - - 使用教程
 date: '2023-06-22T20:09:52.145676+08:00'
 tags:
-- AI绘图
-- AI智能
-- AI绘画
+  - AI绘图
+  - AI智能
+  - AI绘画
 title: '[Stable-Diffusion图生图使用]'
-updated: 2023-6-22T20:9:53.38+8:0
-cover: https://s2.loli.net/2023/06/22/Hal4ORF7bwXTMCz.jpg
+updated: '2023-6-22T20:9:53.38+8:0'
+cover: 'https://s2.loli.net/2023/06/22/Hal4ORF7bwXTMCz.jpg'
 ---
 # [Stable-Diffusion图生图使用]
 

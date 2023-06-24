@@ -1,15 +1,15 @@
 ---
-abbrlink: ''
+abbrlink: b5e6
 categories:
-- - 免费资源
-- - 基础教程
+  - - 免费资源
+  - - 基础教程
 date: '2023-06-23T17:18:24.434059+08:00'
 tags:
-- AI智能
-- AI绘画
-- AI绘图
+  - AI智能
+  - AI绘画
+  - AI绘图
 title: SD WEBUI 基础教程（二）
-updated: 2023-6-23T20:12:12.191+8:0
+updated: '2023-6-23T20:12:12.191+8:0'
 ---
 # 给新人的sd webui安装教程
 
