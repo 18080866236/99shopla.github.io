@@ -15,6 +15,7 @@ menu:
    分类: /categories/ || fas fa-folder-open
    说说: /talks/ || fas fa-comments
    美图: /photo/ || fas fa-photo-video
+   番剧: /bangumis/ || fab fa-simplybuilt
   # 清单||fas fa-list:
       
   #   音乐: /music/ || fas fa-music
