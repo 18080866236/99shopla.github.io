@@ -13,6 +13,7 @@ menu:
    时间轴: /archives/ || fas fa-clock
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
+   说说: /talks/ || fas fa-comments
    美图: /photo/ || fas fa-photo-video
   # 清单||fas fa-list:
       
