@@ -9,7 +9,7 @@
   <script>
     qexoDaodao?.init({
       el: "#DaoDao",
-      avatar: "https://bg.99shopla.com/index.jpg",
+      avatar: "https://bg.99shopla.com/toutiang.jpg",
       name: "眰恦",
       limit: 10,
       useLoadingImg: false,
