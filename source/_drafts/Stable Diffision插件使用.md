@@ -10,11 +10,11 @@ tags:
 - AI画图
 title: Stable Diffision插件使用
 updated: 2023-6-22T20:15:2.951+8:0
-cover: https://s2.loli.net/2023/06/22/U5MRNc8e1XrdpKx.jpg
+cover: https://img.99shopla.com/SDkuozhanchajian.jpg
 ---
 # [Stable Diffision插件使用]
 
-![Stable-Diffusion扩展插件-2048x1152.jpg](https://s2.loli.net/2023/06/22/U5MRNc8e1XrdpKx.jpg)
+![SDkuozhanchajian](https://img.99shopla.com/SDkuozhanchajian.jpg)
 
 1、扩展插件/Extensions安装方法：
 
