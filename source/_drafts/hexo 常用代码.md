@@ -15,16 +15,5 @@ frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolu
 height: 100%; left: 0; top: 0;"> </iframe></div>
 {% endraw %}
 
-![1](/source/img/photoshopbata.png)
+![meinv2.png](https://img.99shopla.com/gujiafenxi5.jpg)
 
-![img](https://img.99shopla.com/ph.png)
-
-![imgs](https://img.99shopla.com/ai.jpg)
-
-![photo](https://img.99shopla.com/1122.png)
-
-![bg](https://bg.99shopla.com/bg.png)
-
-![bg](https://bg.99shopla.com/fm.png)
-
-![bg](https://bg.99shopla.com/my.png)
