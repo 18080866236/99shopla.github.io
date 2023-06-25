@@ -2,8 +2,9 @@
 date: ''
 title: 由AI生成的超真实的美图！
 updated: 2023-6-23T7:56:55.225+8:0
+cover: https://ph.99shopla.com/guofeng00276.jpeg
 ---
-#由AI生成的超真实的美图！Stable-diffusion
+# 由AI生成的超真实的美图！Stable-diffusion
 
 {% gallery %}
 ![guofeng00001.jpg](https://ph.99shopla.com/guofeng00001.jpeg)
