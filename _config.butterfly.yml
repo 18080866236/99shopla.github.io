@@ -55,7 +55,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page 主页的横幅图片
-index_img: https://file.crazywong.com/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+index_img: https://bg.99shopla.com/index.jpg
 
 # If the banner of page not setting, it will show the top_img 如果页面的横幅没有设置，它将显示top_img
 default_top_img:
@@ -91,20 +91,20 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-     - https://s2.loli.net/2023/06/23/nHXCdT9LFRpjEou.jpg         
-     - https://s2.loli.net/2023/06/23/8yC3AGFJjpwHQ42.jpg
-     - https://s2.loli.net/2023/06/23/upFOf6eUYVK7WJq.jpg
-     - https://s2.loli.net/2023/06/23/aUCNbjrhKx5i3GS.jpg
-     - https://s2.loli.net/2023/06/23/UKzeEYHL7XjswJm.jpg
-     - https://s2.loli.net/2023/06/23/127nKxHqTQ5Mz4O.jpg
-     - https://s2.loli.net/2023/06/23/8iS4WzJtM9kLplg.jpg
-     - https://s2.loli.net/2023/06/23/C1fkXudqoZI985c.jpg
-     - https://s2.loli.net/2023/06/23/VkqnFWvxoyJaK5f.jpg
-     - https://s2.loli.net/2023/06/23/AWduYzeVrNsUGq6.jpg
-     - https://s2.loli.net/2023/06/23/LvBgI1Fk9AMlsNX.jpg
-     - https://s2.loli.net/2023/06/23/vi3Y4SMLGpkgwsD.jpg
-     - https://s2.loli.net/2023/06/23/aYC86ZUzIFtpSQ9.jpg
-     - https://s2.loli.net/2023/06/23/pabfcMCLh4sQEe1.jpg
+     - https://bg.99shopla.com/bg0001.jpg         
+     - https://bg.99shopla.com/bg0002.jpg
+     - https://bg.99shopla.com/bg0003.jpg
+     - https://bg.99shopla.com/bg0004.jpg
+     - https://bg.99shopla.com/bg0005.jpg
+     - https://bg.99shopla.com/bg0006.jpg
+     - https://bg.99shopla.com/bg0007.jpg
+     - https://bg.99shopla.com/bg0008.jpg
+     - https://bg.99shopla.com/bg0009.jpg
+     - https://bg.99shopla.com/bg0010.jpg
+     - https://bg.99shopla.com/bg0011.jpg
+     - https://bg.99shopla.com/bg0012.jpg
+     - https://bg.99shopla.com/bg0013.jpg
+     - https://bg.99shopla.com/bg0014.jpg
      - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
      
 # Replace Broken Images (替换无法显示的图片)
