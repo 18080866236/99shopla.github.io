@@ -6,19 +6,19 @@ updated: 2023-6-23T7:56:55.225+8:0
 由AI生成的超真实的美图！Stable-diffusion
 
 {% gallery %}
-![girl 1.jpg](https://s2.loli.net/2023/06/22/9Yhs2PdWSjA7kr1.jpg)
-![girl 2.jpg](https://s2.loli.net/2023/06/22/jpKBIxqUE4aPQlr.jpg)
-![girl 3.jpg](https://s2.loli.net/2023/06/22/uRbdivnZfyPh6Wg.jpg)
-![girl 4.jpg](https://s2.loli.net/2023/06/22/xgsivhVPL6fq1kF.jpg)
-![girl 5.jpg](https://s2.loli.net/2023/06/22/cVBgNK2tkOEPyrF.jpg)
-![girl 6.jpg](https://s2.loli.net/2023/06/22/URTmqrYEnFplxhN.jpg)
-![girl 7.jpg](https://s2.loli.net/2023/06/22/ApteoTWcvdJaQZ1.jpg)
-![girl 8.jpg](https://s2.loli.net/2023/06/22/EkClR8odbZTXBQI.jpg)
-![girl 1.png](https://s2.loli.net/2023/06/22/L8WMOJeIvrPpnQU.png)
-![girl 2.png](https://s2.loli.net/2023/06/22/JIebUoNzdDLk7cu.png)
-![1296-1-972x1536.jpg](https://s2.loli.net/2023/06/22/o972dH1xaCcw68p.jpg)
-![1296-972x1536.jpg](https://s2.loli.net/2023/06/22/RjWmbvNsa9OF86Q.jpg)
-![1296-3-972x1536.jpg](https://s2.loli.net/2023/06/22/ukCJyE9rcZtiezs.jpg)
+![girl 00001.jpg](https://bg.99shopla.com/girl00001.jpg)
+![girl 00002.jpg](https://bg.99shopla.com/girl00002.jpg)
+![girl 00003.jpg](https://bg.99shopla.com/girl00003.jpg)
+![girl 00004.jpg](https://bg.99shopla.com/girl00004.jpg)
+![girl 00005.jpg](https://bg.99shopla.com/girl00005.jpg)
+![girl 00006.jpg](https://bg.99shopla.com/girl00006.jpg)
+![girl 00007.jpg](https://bg.99shopla.com/girl00007.jpg)
+![girl 00008.jpg](https://bg.99shopla.com/girl00008.jpg)
+![girl 00009.jpg](https://bg.99shopla.com/girl00009.jpg)
+![girl 00010.jpg](https://bg.99shopla.com/girl00010.jpg)
+![girl 00011.jpg](https://bg.99shopla.com/girl00011.jpg)
+![girl 00012.jpg](https://bg.99shopla.com/girl00012.jpg)
+![girl 00013.jpg](https://bg.99shopla.com/girl00013.jpg)
 {% endgallery %}
 
 
