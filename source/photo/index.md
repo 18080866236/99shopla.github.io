@@ -5,7 +5,7 @@ updated: 2023-6-23T7:56:55.225+8:0
 cover: https://ph.99shopla.com/guofeng00276.jpeg
 ---
 # 由AI生成的超真实的美图！Stable-diffusion
-
+## 国风
 {% gallery %}
 ![guofeng00001.jpg](https://ph.99shopla.com/guofeng00001.jpeg)
  ![guofeng00002.jpg](https://ph.99shopla.com/guofeng00002.jpeg)
@@ -1022,7 +1022,7 @@ cover: https://ph.99shopla.com/guofeng00276.jpeg
  ![guofeng01013.jpg](https://ph.99shopla.com/guofeng01013.jpeg)
  ![guofeng01014.jpg](https://ph.99shopla.com/guofeng01014.jpeg)
  ![guofeng01015.jpg](https://ph.99shopla.com/guofeng01015.jpeg)
-
+## 现代美女
 ![girl 00001.jpg](https://ph.99shopla.com/girl00001.jpg)
 ![girl 00002.jpg](https://ph.99shopla.com/girl00002.jpg)
 ![girl 00003.jpg](https://ph.99shopla.com/girl00003.jpg)
