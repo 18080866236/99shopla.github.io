@@ -9,11 +9,11 @@ tags:
 - AI绘图
 title: stable diffusion [ControlNet1.1使用分享]
 updated: 2023-6-22T20:19:21.709+8:0
-cover: https://s2.loli.net/2023/06/22/48ZWREtiKCe6wDL.jpg
+cover: https://img.99shopla.com/SDcontrolnet.jpg
 ---
 # [ControlNet1.1使用分享]
 
-![Controlnet的使用-2048x1152.jpg](https://s2.loli.net/2023/06/22/48ZWREtiKCe6wDL.jpg)
+![SDcontrolnet](https://img.99shopla.com/SDcontrolnet.jpg)
 
 1、Controlnet的底层逻辑：
 
@@ -30,7 +30,7 @@ cover: https://s2.loli.net/2023/06/22/48ZWREtiKCe6wDL.jpg
 \stable-diffusion-webui-dev\extensions\sd-webui-controlnet-main\annotator\downloads\Copy
 ```
 
-![](https://naiyou001.tk/wp-content/uploads/2023/05/image-1024x138.png)
+![SDcontrolnet1](https://img.99shopla.com/SDcontrolnet1.png)
 
 4、Controlnet参数：
 
@@ -42,4 +42,4 @@ cover: https://s2.loli.net/2023/06/22/48ZWREtiKCe6wDL.jpg
 
 5、各种模型用法参考：【[进入了解](https://zhuanlan.zhihu.com/p/626659571)】
 
-![00014-2-1258x2048.png](https://s2.loli.net/2023/06/22/YxH4M6Dsh5cSyJm.png)
+![SDcontrolnet2](https://img.99shopla.com/SDcontrolnet2.png)
