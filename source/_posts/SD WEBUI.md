@@ -22,7 +22,7 @@ updated: '2023-6-23T17:5:22.865+8:0'
 Stable diffusion（简称sd）是一种文生图AI模型。能够将输入的文字转化为高分辨率的图片。比如，当我输入：1girl, beautiful, realistic（1个女孩，美丽，现实）
 输出的图片为：
 
-![1个女孩](https://s2.loli.net/2023/06/22/o972dH1xaCcw68p.jpg)
+![1个女孩](https://ph.99shopla.com/girl00011.jpg)
 
 当然，文生图模型除了sd，还有Midjourney和DALL-E，但sd具有显著的优点，让我们乐于选择使用它：
 
