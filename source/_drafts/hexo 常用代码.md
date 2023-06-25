@@ -18,4 +18,8 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ![1](/source/img/photoshopbata.png)
 
-![2](https://img.99shopla.com/ph.png)
+![img](https://img.99shopla.com/ph.png)
+
+![imgs](https://img.99shopla.com/ai.jpg)
+
+![photo](https://img.99shopla.com/1122.png)
