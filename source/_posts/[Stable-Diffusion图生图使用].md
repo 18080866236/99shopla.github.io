@@ -10,11 +10,11 @@ tags:
   - AI绘画
 title: '[Stable-Diffusion图生图使用]'
 updated: '2023-6-22T20:9:53.38+8:0'
-cover: 'https://s2.loli.net/2023/06/22/Hal4ORF7bwXTMCz.jpg'
+cover: 'https://img.99shopla.com/SDtushengtu.jpg'
 ---
 # [Stable-Diffusion图生图使用]
 
-![Stable-Diffusion图生图-2048x1152.jpg](https://s2.loli.net/2023/06/22/Hal4ORF7bwXTMCz.jpg)
+![Stable-Diffusion图生图-2048x1152.jpg](https://img.99shopla.com/SDtushengtu.jpg)
 
 1、**==操作步骤：==**选择 绘画模型（Stable Diffusion checkpoint）→ 选择图生图（img2img）→上传图片 → 填写正向提示词（Prompt） →填写反向提示词（Negative prompt） → 选择采样器（一般选择DPM++ 2M Karras） →设置采样步骤（一般设置28——30） → 设置长宽（Width / Height）→点击生成（Generate）（**==重绘强度一般选择默认==**）
 
