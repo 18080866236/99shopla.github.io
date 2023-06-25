@@ -10,6 +10,7 @@ tags:
   - AI绘图
 title: SD WEBUI 基础教程（二）
 updated: '2023-6-23T20:12:12.191+8:0'
+cover: 'https://img.99shopla.com/jingling1.jpg'
 ---
 # 给新人的sd webui安装教程
 
@@ -40,7 +41,7 @@ Prompt: an elf (一个精灵)
 模型：Realistic Vision V2.0
 Prompt: a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙)
 
-![05c2db0f0cf3d7cae14c17bbb71fbe096963a9a3.jpg](https://s2.loli.net/2023/06/23/yb6irZotHdPIDMf.jpg)
+![jingling1.jpg](https://img.99shopla.com/jingling1.jpg)
 
 ### 2、背景
 
@@ -49,7 +50,7 @@ Prompt: a beautiful girl as an enchanting forest elf sitting on a tree, serene e
 在这个例子中，精灵是在树林里的，当然也可以在其它地方，可以结合你自己的想象力去创造更新颖的画面。在这里我就将环境设定在树林里。
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光)
 
-![56f3e0550923dd54acbd8ca59409b3de9e824817.jpg](https://s2.loli.net/2023/06/23/vrGp7MLCxob38qK.jpg)
+![jingling2.jpg](https://img.99shopla.com/jingling2.jpg)
 
 ### 3、构图
 
@@ -58,7 +59,7 @@ Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene 
 从上面生成的图片来看，很多都是上半身的图像，但我更想要全身的图像，那么我继续添加关键词：
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像)
 
-![ac4d62ee76094b3661503020e6cc7cd98f109d1b.jpg](https://s2.loli.net/2023/06/23/Tb8BpPJeIa9CKyn.jpg)
+![jingling3.jpg](https://img.99shopla.com/jingling3.jpg)
 
 可以发现，当我添加full body之后，确实可以生成全身像，但是能发现一个明确缺点，即容易产生畸形人物，这在半身像中却是不常见的。生成全身像会导致任务畸形是许多模型共同的缺点，这可能是因为训练模型使用的材料缺乏这类图片的原因。
 
@@ -67,7 +68,7 @@ Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene 
 设定风格能够对图片产生非常大的影响，不同的风格能够给人不同的感觉，可以使用的关键词有很多。例如fantasy（幻想虚拟风格）、hyperrealistic（超现实主义的）、Modernist（现代主义的）、illustration（插画）等等。这里分享一下小技巧，一个能够准确且有效的改变画面风格的方法是加入特定的画家的名字。比如我加入Alan Lee，他是一个插画家：
 Prompt: a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, by Alan Lee, fantasy, hyperrealistic, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像，Alan Lee画的，幻想、超现实的)
 
-![3a6660167f3e6709dd256f327ec79f3df9dc5533.jpg](https://s2.loli.net/2023/06/23/yBtJsPjX27lrWYR.jpg)
+![jingling4.jpg](https://img.99shopla.com/jingling4.jpg)
 
 可以发现，风格的确发生了一些变化，已经出现了Alan Lee的绘画风格了。效果不是很明显，但是没关系，先用着。
 
@@ -78,7 +79,7 @@ Prompt: a beautiful girl as an enchanting forest elf sitting on a tree, serene e
 我觉得这个水彩效果对这个主题来说更合适，所以我添加了watercolor（水彩）
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, by Alan Lee, fantasy, hyperrealistic, watercolor, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像，Alan Lee画的，幻想的，超现实的，水彩)
 
-![b8ff3ccbd1c8a786c3a159c32209c93d72cf5051.jpg](https://s2.loli.net/2023/06/23/mANihbfJCs4cWIE.jpg)
+![jingling5.jpg](https://img.99shopla.com/jingling5.jpg)
 
 可以发现，添加watercolor关键词已经使画面产生了水彩的效果。
 
@@ -87,7 +88,7 @@ Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene 
 使用能提高画面锐度的关键词，避免产生模糊的图片。highly detailed和sharp focus是很好的关键词
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, by Alan Lee, fantasy, hyperrealistic, watercolor, sharp focus, highly detailed, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像，Alan Lee画的，幻想的，超现实的，水彩，锐利聚焦、高度详细)
 
-![601a0650f3deb48f6c08bc13b51f3a292ff578f8.jpg](https://s2.loli.net/2023/06/23/4ieLCoNhjmSYcQf.jpg)
+![jingling6.jpg](https://img.99shopla.com/jingling6.jpg)
 
 ### 7、光效
 
@@ -95,14 +96,14 @@ Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene 
 这里我添加了cinematic lighting（电影灯光）
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, by Alan Lee, fantasy, hyperrealistic, watercolor, sharp focus, highly detailed, cinematic lighting, high contrast(一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像，Alan Lee画的，幻想的，超现实的，水彩，锐利聚焦，高度详细，电影灯光，高对比)
 
-![601a0650f3deb48f6c08bc13b51f3a292ff578f8.jpg](https://s2.loli.net/2023/06/23/4ieLCoNhjmSYcQf.jpg)
+![jingling7.jpg](https://img.99shopla.com/jingling7.jpg)
 
 ### 8、颜色
 
 整个画面只有绿色，我觉得有些单调，我还想添加更多颜色进去，比如金色。
 Prompt：a beautiful girl as an enchanting forest elf sitting on a tree, serene expression, wearing a flowing green dress with intricate details, forest dominated by towering trees, sunny, warm sunlight, full body, by Alan Lee, fantasy, hyperrealistic, watercolor, sharp focus, highly detailed, cinematic lighting, high contrast, radiant gold color vibe, (一个如迷人的森林精灵般的美丽女孩坐在一棵树上，表情安宁，穿着一件带有复杂细节的飘逸绿色连衣裙，参天大树构成的森林，晴天，温暖的阳光，全身像，Alan Lee画的，幻想的，超现实的，水彩，锐利聚焦，高度详细，电影灯光，高对比，闪耀的金黄色颜色氛围)
 
-![9c099000213fb80eb0087d1a73d12f2ebb389400.jpg](https://s2.loli.net/2023/06/23/jY1CRdXyHnT45IL.jpg)
+![jingling8.jpg](https://img.99shopla.com/jingling8.jpg)
 
 ### 反向关键词
 
