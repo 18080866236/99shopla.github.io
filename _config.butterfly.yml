@@ -44,11 +44,11 @@ social:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://bg.99shopla.com/touxiang.jpg #/img/favicon.png
+favicon: https://bg.99shopla.com/touxiang.png #/img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://bg.99shopla.com/touxiang.jpg
+  img: https://bg.99shopla.com/touxiang.png
   effect: true #头像会一直转圈
 
 # Disable all banner image 禁用所有横幅图像
