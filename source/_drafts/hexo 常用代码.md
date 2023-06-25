@@ -15,5 +15,5 @@ frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolu
 height: 100%; left: 0; top: 0;"> </iframe></div>
 {% endraw %}
 
-![meinv2.png](https://img.99shopla.com/gujiafenxi5.jpg)
+![meinv2.png](https://img.99shopla.com/gujiafenxi5.png)
 
