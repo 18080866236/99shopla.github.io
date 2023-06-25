@@ -4,7 +4,7 @@ categories: []
 date: '2023-06-25T08:56:07.589108+08:00'
 tags: []
 title: hexo 常用插入代码
-updated: 2023-6-25T12:50:1.945+8:0
+updated: 2023-6-25T13:57:15.538+8:0
 ---
 #插入视频音乐代码，只需要修改src=""
 
@@ -17,3 +17,5 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
 {% endraw %}
 
 ![1](/source/img/photoshopbata.png)
+
+![2](https://img.99shopla.com/ph.png)
