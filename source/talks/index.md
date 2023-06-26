@@ -13,7 +13,7 @@
       name: "眰恦",
       limit: 10,
       useLoadingImg: false,
-      baseURL: "https://my-qexo-murex.vercel.app,
+      baseURL: "https://qexo.99shopla.com/",
     }).then(function (){
       console.log("Daodao加载完成");
     })
