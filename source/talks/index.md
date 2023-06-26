@@ -13,7 +13,7 @@
       name: "眰恦",
       limit: 10,
       useLoadingImg: false,
-      baseURL: "https://my-qexo-fe0v0lf5h-18080866236.vercel.app/",
+      baseURL: "https://my-qexo-18080866236.vercel.app/",
     }).then(function (){
       console.log("Daodao加载完成");
     })
