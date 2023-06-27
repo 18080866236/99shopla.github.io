@@ -9,9 +9,9 @@ tags:
   - 免费资源
 title: Adobe PhotoShop 最新（beta） Firefly AI 功能
 updated: '2023-6-22T17:44:47.491+8:0'
-cover: 'https://s2.loli.net/2023/06/22/xpX82jIsAzWJk4L.png'
+cover: https://img.99shopla.com/photoshopbata.png
 ---
-![adobe photoshop bata.png](https://s2.loli.net/2023/06/22/xpX82jIsAzWJk4L.png)
+![adobe photoshop bata.png](https://img.99shopla.com/photoshopbata.png)
 
 CreativeCloud 最新安裝包：【**[点击下载](https://creativecloud.adobe.com/apps/download/creative-cloud)**】
 
