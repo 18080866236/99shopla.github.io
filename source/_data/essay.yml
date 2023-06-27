@@ -1,0 +1,12 @@
+- class_name: 即刻短文
+  essay_list:
+    - content: 用了即刻短文，很舒服
+      date: 2022-08-13
+    - content: Markdown教程推出
+      date: 2022-08-12
+      image: https://pic.rmb.bdstatic.com/bjh/965866510655a628f2c37b93846520a93213.png
+    - content: 现在即刻短文已经纯本地化部署完成，不再依赖任何第三方服务了
+      date: 2022-08-12
+      link: https://99shopla.com/
+    - content: 好开心
+      date: 2022-08-05 06:08:54
