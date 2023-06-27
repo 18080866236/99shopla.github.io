@@ -334,7 +334,7 @@ darkmode:
   # autoChangeMode：1按照系统设置，如果系统不支持暗模式，它会在下午6点到早上6点之间切换暗模式
   # autoChangeMode： 2在下午6点到早上6点之间切换黑暗模式
   # autoChangeMode: false
-  autoChangeMode: 1
+  autoChangeMode: 2
   # 设置灯光模式时间。值在0到24之间。如果未设置，默认值为6和18
   start: # 8
   end: # 22
