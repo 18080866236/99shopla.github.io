@@ -1,151 +1,61 @@
-:root {
-    letter-spacing: .8px;
-    --hassan-main: #1fc7b6;
-    --hassan-main-light: #b3e7e2;
-    --hassan-main-fontcolor: #ffffffe6;
-    --hassan-main-gray: #666;
-    --hassan-theme-color: #1fc7b6;
-    --hassan-theme-color-light: #b3e7e2;
-    --hassan-theme-color-dark: #5ccdc1;
-    --hassan-theme-color-bright: #59ffee;
-    --wendyzhang: #7f4985;
-    --wendyzhang-bright: #8600ce;
-    --wendyzhang-light: #ded5fb;
-    --hassan-purple-dark: #2f2448;
-    --hassan-purple-darker: #544181;
-    --hassan-blue-dark: #30343f;
-    --hassan-blue-darker: #535a6c;
-    --hassan-blue-light: #f0f3fa;
-    --hassan-blue-lighter: #dbe2f2;
-    --hassan-white: #ffffffe6;
-    --hassan-black: #131415;
-    --hassan-black-light: #444;
-    --hassan-oringe: #f18865;
-    --hassan-gray-lighter: #ddd;
-    --hassan-gray-light: #f4f4f4;    
-    --hassan-gray: #aaa;
-    --hassan-gray-darker: #888;
-    --hassan-gray-dark: #666;
-    --hassan-gray-blue: #a1a2b8;
-    --hassan-transparent-white: rgba(255, 255, 255, 0.9);
-    --hassan-transparent-white-deep: rgba(255, 255, 255, 0.46);
-    --hassan-transparent-black: rgba(19, 20, 21, 0.8);
-    --hassan-transparent-black-shallow: rgba(19, 20, 21, 0.4);
-    --hassan-bg-social: rgba(255, 255, 255, 0.2);
-    --hassan-border: 1px solid var(--hassan-border-color);
-    --hassan-border-hover: 1px solid var(--hassan-main)
-}
+/* 设置标签栏的样式 */
+.tag-bar {
+    border-radius: 14px;
+    background-color: rgb(255, 108, 108); /* 背景色设置为灰色 */
+  }
+
+  .tag-cloud-list a {
+    background-color: rgb(210, 210, 210); /* 背景色设置灰色 */
+  }  
+  /* 设置标签云列表中链接的样式 */
+  .tag-cloud-list a {
+    border-radius: 12px; /* 边框圆角为12px */
+    transition: background-color 0.3s; /* 添加背景色的过渡效果，时长为0.3秒 */
+  }
+  
+  /* 鼠标悬浮在标签云链接上的样式 */
+  .tag-cloud-list a:hover {
+    background-color:#1fc7b6; /* 背景色变为绿色 */
+  }
+  
+  /* 设置标签云标题的样式 */
+  .tag-cloud-title {
+    font-weight: bold; /* 设置字体粗细为加粗 */
+  }
+  .tag-cloud-list a {
+    border-radius: 12px;
+    transition: background-color 0.3s;
+    margin-right: 12px; /* 添加右侧的间距 */
+  }
+    
 #footer-wrap a,#nav .site-page,#notice,#pagination .page-number:not(.current),#stickyList .swiper-slide,.card-ad-ymts,.card-cheesy_pick-up_lines,.card-webinfo,.recent-post-item:not(:first-child),.swiper-pagination-bullet,a,button {
     cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_puppy.png),pointer!important
 }
 
-.tag-bar {
-    border-radius: 12px;
-    background: var(--hassan-post)
+a.article-meta__tags {
+  background-color: #7b7b7b; /* 设置标签的背景色 */
+  color: #fcfcfc !important; /* 设置标签文字颜色 */
+  border-radius: 6px; /* 设置标签的圆角边框 */
+  padding: 6px; /* 设置标签的内边距 */
+  transition: background-color 0.3s; /* 设置过渡效果 */
+}
+a.article-meta__tags:hover {
+  background-color: #1fc7b6; /* 设置鼠标悬停时的背景色 */
+  text-decoration: none !important; /* 去除鼠标悬停时的下划线 */
 }
 
-.tag-cloud-list a {
-    background: var(--hassan-gray-light);
-    margin: 6px;
-    border-radius: 12px;
-    transition: .3s
+
+
+.card-tag-cloud a {
+  margin: 5px;/*间距*/
+  background-color: rgba(233, 233, 233, 0.759);/*背景色*/
+  /*color: #000000 !important;*/
+  border-radius: 6px;/*元素的间距像素*/
 }
-
-.tag-cloud-list a:hover {
-    background: var(--hassan-main);
-    color: var(--hassan-main-fontcolor)!important
+.card-tag-cloud a:hover {
+  background-color: #1fc7b6; /*鼠标悬浮背景颜色将变色*/
+  color: #f90000 !important;
 }
-
-.tag-cloud-title {
-    font-weight: 700
-}
-
-    #recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap a.article-meta__tags {
-        margin-right: 6px
-    }
-    [data-theme=light] #recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap a.article-meta__tags {
-        color: #1f2d3d
-    }
-    a.article-meta__categories:hover,a.article-meta__tags:hover {
-        background-color: var(--hassan-theme-color);
-        text-decoration: none!important
-    }
-    
-    
-    a.article-meta__categories,a.article-meta__tags,a.twikoo-count,span.article-meta-label,span.post-meta-date time {
-        font-size: 16px;
-        font-weight: 400
-    }
-    a.article-meta__tags {
-        background-color: var(--hassan-gray);
-        color: var(--hassan-white)!important;
-        border-radius: 6px;
-        padding: 2px
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
