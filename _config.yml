@@ -33,7 +33,7 @@ abbrlink:
      over_write: false 
   auto_title: true #启用自动标题，可以按路径自动填充标题
   auto_date: true #启用自动日期，它可以按今天的时间自动填写日期
-  force: false #启用强制模式，在这种模式下，插件将忽略缓存，并计算每个帖子的abbrlink，即使它已经有abbrlink。这只更新abbrlink而不是其他前端变量。
+  force: true #启用强制模式，在这种模式下，插件将忽略缓存，并计算每个帖子的abbrlink，即使它已经有abbrlink。这只更新abbrlink而不是其他前端变量。
 
 # Directory
 source_dir: source
