@@ -787,7 +787,7 @@ subtitle:
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
     - 今日事&#44;今日毕
-    - 妙笔生花网
+    - 妙笔生财网
 
 # Loading Animation (页面加载动画preloader)
 preloader:
