@@ -15,14 +15,14 @@
     <atom:link href="https://99shopla.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>分享各种有趣的、好玩的黑科技！跟着我不迷路。</description>
-    <pubDate>Thu, 06 Jul 2023 01:43:39 GMT</pubDate>
+    <pubDate>Fri, 07 Jul 2023 01:40:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>Adobe PhotoShop 最新（beta） Firefly AI 功能</title>
       <link>https://99shopla.com/posts/97ca.html</link>
       <guid>https://99shopla.com/posts/97ca.html</guid>
-      <pubDate>Thu, 06 Jul 2023 01:43:39 GMT</pubDate>
+      <pubDate>Fri, 07 Jul 2023 01:40:05 GMT</pubDate>
       
         
         
@@ -53,7 +53,7 @@
       <title>SD WEBUI 常见错误汇总</title>
       <link>https://99shopla.com/posts/2882.html</link>
       <guid>https://99shopla.com/posts/2882.html</guid>
-      <pubDate>Thu, 06 Jul 2023 01:43:39 GMT</pubDate>
+      <pubDate>Fri, 07 Jul 2023 01:40:05 GMT</pubDate>
       
         
         
@@ -82,7 +82,7 @@
       <title>天行九歌经典语录</title>
       <link>https://99shopla.com/posts/791f.html</link>
       <guid>https://99shopla.com/posts/791f.html</guid>
-      <pubDate>Thu, 06 Jul 2023 01:43:39 GMT</pubDate>
+      <pubDate>Fri, 07 Jul 2023 01:40:05 GMT</pubDate>
       
         
         
@@ -104,6 +104,31 @@
       
       
       <comments>https://99shopla.com/posts/791f.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Stable Diffusion-SD_install4CN</title>
+      <link>https://99shopla.com/posts/9d69.html</link>
+      <guid>https://99shopla.com/posts/9d69.html</guid>
+      <pubDate>Fri, 07 Jul 2023 01:31:55 GMT</pubDate>
+      
+      <description>AI绘画快速安装部署Stable Diffusion-SD_install4CN Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，可切换多种模型，最重要的是免费，没有绘图次数限制。对比Midjourney主打一分不花。 部署时，踩坑主要受国内网络速度和环境配置影响导致部署失败而放弃。对比其他动辄几十个G的启动器，SD_install4CN方便快捷，操作简单，并长期更新。 属于整合包，不用考虑网速的问题，整合检测环境，更换国内镜像源，插件管理等功能。  启动出现127.0.0.1:????复制到浏览器中打开   ...</description>
+      
+      
+      
+      
+      <category domain="https://99shopla.com/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/">使用教程</category>
+      
+      
+      <category domain="https://99shopla.com/tags/AI%E7%BB%98%E7%94%BB/">AI绘画</category>
+      
+      <category domain="https://99shopla.com/tags/AI%E7%BB%98%E5%9B%BE/">AI绘图</category>
+      
+      <category domain="https://99shopla.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>https://99shopla.com/posts/9d69.html#disqus_thread</comments>
       
     </item>
     

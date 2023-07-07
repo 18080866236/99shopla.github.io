@@ -87,6 +87,35 @@
     
     
     <entry>
+      <title>Stable Diffusion-SD_install4CN</title>
+      <link href="/posts/9d69.html"/>
+      <url>/posts/9d69.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="AI绘画快速安装部署Stable-Diffusion-SD-install4CN"><a href="#AI绘画快速安装部署Stable-Diffusion-SD-install4CN" class="headerlink" title="AI绘画快速安装部署Stable Diffusion-SD_install4CN"></a>AI绘画快速安装部署Stable Diffusion-SD_install4CN</h1><p>Stable Diffusion是一个AI 绘图软件 （开源模型），可本地部署，可切换多种模型，最重要的是免费，没有绘图次数限制。对比Midjourney主打一分不花。</p><p>部署时，踩坑主要受国内网络速度和环境配置影响导致部署失败而放弃。对比其他动辄几十个G的启动器，SD_install4CN方便快捷，操作简单，并长期更新。</p><p>属于整合包，不用考虑网速的问题，整合检测环境，更换国内镜像源，插件管理等功能。</p><p><img src="https://img.99shopla.com/SDInstall4cn.png" alt="SDInstall4cn"></p><p>启动出现127.0.0.1:????复制到浏览器中打开</p><p><img src="https://img.99shopla.com/SDInstall4cncmd.png" alt="SDInstall4cncmd"></p><p><img src="https://img.99shopla.com/SDInstall4cnui.png" alt="SDInstall4cnui"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 使用教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI绘画 </tag>
+            
+            <tag> AI绘图 </tag>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>5款良心实用的软件推荐，真正的新系统必备，绝对刷新你的认知！</title>
       <link href="/posts/9118.html"/>
       <url>/posts/9118.html</url>
